@@ -1,4 +1,4 @@
-# Projects for the Computational Intelligence course (PoliTO) 
+# Projects for the Computational Intelligence course
 
 In this repository are presented the various solutions for problems seen in the course of Computational Intelligence.
 
